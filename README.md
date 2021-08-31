@@ -16,7 +16,7 @@ We hereby release this (deidentified) dataset that contains for each period (def
 - number of tests allocated by Eva (**numTestsAlloc**),
   
 ## Granular Data Availability
-The finer granularity dataset that includes the traelers point of entry and region of entry has a high identifiability risk and is therefore protected by GDPR.
+The finer granularity dataset that includes the travelers age group and region of origin has a high identifiability risk and is therefore protected by GDPR.
 This data is controlled by the Greek Ministry of Civil Protection (Controller) and the Greek Minisry of Digital Governance (Processor). Access to this dataset can only be granted
 by the Controller and the Processor for research that is conducted in the public interest in the area of public health (GDPR Recital 159) for scientific purposes (GDPR Article 89).
 
