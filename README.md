@@ -24,11 +24,16 @@ by the Controller and the Processor for research that is conducted in the public
 ## Citing our work
 Team Eva has a research paper with the mathematical details of the algorithm in addition to empirical evidence from the summer of 2020 on the effectiveness of Eva. Should you use this data or need to cite that work, we politely ask you use the following citation:
 
+```
 @article{bastani2021deploying,
   title={Deploying an Artificial Intelligence System for Covid-19 Testing at the Greek Border},
-  author={Bastani, Hamsa and Drakopoulos, Kimon and Gupta, Vishal and Vlachogiannis, Jon and Hadjicristodoulou, Christos and Lagiou, Pagona and Magiorkinis, Gkikas and Paraskevis, Dimitrios and Tsiodras, Sotirios}, 
+  author={Bastani, Hamsa and Drakopoulos, Kimon and Gupta, Vishal and Vlachogiannis, Jon 
+    and Hadjicristodoulou, Christos and Lagiou, Pagona 
+    and Magiorkinis, Gkikas and Paraskevis, Dimitrios and Tsiodras, Sotirios}, 
   year={2021},
   month={Feb.},
   url={http://dx.doi.org/10.2139/ssrn.3789038}, 
   journal={SSRN}
 }
+```
+
