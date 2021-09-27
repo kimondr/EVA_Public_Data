@@ -27,15 +27,13 @@ Among other things, our data could be used to:
 If you use this data, we request that you cite the associated research paper (citation given below), which documents the mathematical details of the Eva algorithm as well as empirical evidence that supports the effectiveness of Eva in the summer of 2020. Note that this data does not exactly replicate the results in our paper since some rows and features have been excluded in the deidentification process described above.
 
 ```
-@article{bastani2021deploying,
-  title={Deploying a Reinforcement Learning System for Covid-19 Testing in Greece},
-  author={Bastani, Hamsa and Drakopoulos, Kimon and Gupta, Vishal and Vlachogiannis, Jon 
-    and Hadjicristodoulou, Christos and Lagiou, Pagona 
-    and Magiorkinis, Gkikas and Paraskevis, Dimitrios and Tsiodras, Sotirios}, 
+@article{bastani2021Efficient,
+  title={Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning},
+  author={Bastani, Hamsa and Drakopoulos, Kimon and Gupta, Vishal and Vlachogiannis, Jon and Hadjicristodoulou, Christos and Lagiou, Pagona and Magiorkinis, Gkikas and Paraskevis, Dimitrios and Tsiodras, Sotirios}, 
   year={2021},
-  month={Feb.},
-  url={http://dx.doi.org/10.2139/ssrn.3789038}, 
-  journal={SSRN}
+  month={Sept.},
+  url={https://doi.org/10.1038/s41586-021-04014-z}, 
+  journal={Nature}
 }
 ```
 
